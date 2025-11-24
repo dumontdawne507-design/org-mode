@@ -1,0 +1,37 @@
+magnificent-69tdjoss.1/
+├─ docs/
+│  ├─ architecture/
+│  │  ├─ system-overview.md
+│  │  ├─ data-flow.md
+│  │  └─ integration-map.md
+│  ├─ branding/
+│  │  ├─ persona.md
+│  │  └─ style-guide.md
+│  └─ compliance/
+│     ├─ ownership.md
+│     └─ security.md
+├─ src/
+│  ├─ core/
+│  ├─ adapters/
+│  ├─ ui/
+│  └─ config/
+├─ deployments/
+│  ├─ k8s/
+│  ├─ docker/
+│  └─ helm/
+├─ .github/
+│  ├─ ISSUE_TEMPLATE/
+│  │  ├─ bug_report.md
+│  │  └─ feature_request.md
+│  ├─ PULL_REQUEST_TEMPLATE.md
+│  ├─ workflows/
+│  │  ├─ ci.yml
+│  │  └─ security-scan.yml
+│  └─ CODEOWNERS
+├─ README.md
+├─ LICENSE
+├─ SECURITY.md
+├─ CONTRIBUTING.md
+├─ CHANGELOG.md
+├─ VERSION
+└─ ARCHITECTURE.mdmegnificent 
